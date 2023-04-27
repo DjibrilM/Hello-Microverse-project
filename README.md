@@ -1,21 +1,13 @@
 
 
-<a name="readme-top"></a>
-
-<div align="center">
-
-  <h3><b> Microverse Hello project
-</b></h3>
-</div>
-
-
-
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
+- [🚀 Live Demo](#live-demo)
 
 - [💻 Getting Started](#getting-started)
 
@@ -34,32 +26,51 @@
 The following project consist of demostrating the usage of github best practices, Linsts configs and how to write source code documentation in professional manner.
 
 
-**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-1.  Html
-
-1.  css
-
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
+  </ul>
+</details>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Usage
-TO run the project click on the html document on your local machine 
+To run the project click on the html document on your local machine 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Key Features <a name="key-features"></a>
+
+
+- solid Linting 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LIVE DEMO -->
+## 🚀 Live Demo <a name="live-demo"></a>
+The live demo link is currently unavailable due to technical stuff and maintenance, please be patient as we are working on something presentable 
+
+<!-- - [Live Demo Link](https://google.com) -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -73,7 +84,6 @@ TO run the project click on the html document on your local machine
 
 
 ## 🤝 Contributing <a name="contributing"></a>
-
 Contributions, issues, and feature requests are welcome!
 
 
@@ -83,7 +93,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project don't for get to leave a star 
+If you like this project don't for get to leave a star, and leave your feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +101,7 @@ If you like this project don't for get to leave a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for all the inspirations and great support offered for this project.
+I would like to thank Microverse for all the inspiration and great support offered for this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +113,3 @@ I would like to thank Microverse for all the inspirations and great support offe
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
